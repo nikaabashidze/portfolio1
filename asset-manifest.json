@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.f8dabb2d.css",
+    "main.js": "/portfolio1/static/js/main.61195f68.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio1/static/js/787.7da95b79.chunk.js",
+    "static/media/hostingimage.jpg": "/portfolio1/static/media/hostingimage.d573d8469f031176085c.jpg",
+    "static/media/myimage.png": "/portfolio1/static/media/myimage.c8075f80ffc63e76d103.png",
+    "static/media/1website-design-development-languages-on-laptop2.png": "/portfolio1/static/media/1website-design-development-languages-on-laptop2.373d7e3691a967d50868.png",
+    "static/media/frontend_webdeveloper.jpg": "/portfolio1/static/media/frontend_webdeveloper.b9f9aa89ab8aa2920145.jpg",
+    "static/media/codingLogo.png": "/portfolio1/static/media/codingLogo.829f9161263d5051c4e7.png",
+    "static/media/square-instagram (1).svg": "/portfolio1/static/media/square-instagram (1).b678db5aab6ba0a6b055a76d98a9e7df.svg",
+    "static/media/github (1).svg": "/portfolio1/static/media/github (1).925efa3eb2160baf33f5eb76743ffeb9.svg",
+    "static/media/linkedin (1).svg": "/portfolio1/static/media/linkedin (1).5e53c84761bc8b63033f798f0be6a91b.svg",
+    "index.html": "/portfolio1/index.html",
+    "static/media/facebook (1).svg": "/portfolio1/static/media/facebook (1).3c07275837ebfb88c11c1efa68d06571.svg",
+    "main.f8dabb2d.css.map": "/portfolio1/static/css/main.f8dabb2d.css.map",
+    "main.61195f68.js.map": "/portfolio1/static/js/main.61195f68.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio1/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8dabb2d.css",
+    "static/js/main.61195f68.js"
+  ]
+}
