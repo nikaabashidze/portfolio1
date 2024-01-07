@@ -1,0 +1,79 @@
+
+
+
+
+.skills {
+    background-color: rgb(25, 27, 27);
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+}
+.skills * {
+    position: relative; 
+    animation-name: skills;
+    animation-duration: 1s;
+    background-color: black;
+    background: transparent;
+    
+}
+
+.skills div {
+    border: 1px solid rgb(37, 37, 36);
+    box-shadow: 0 4px 8px 0 rgba(55, 53, 53, 0.2), 0 6px 20px 0 rgba(79, 75, 75, 0.19);
+}
+
+
+.skills :nth-child(1){
+    border-right: none;
+    width: 20%;
+    animation-name: skills;
+    animation-duration: 1s;
+
+}
+.skills :nth-child(2){
+    width: 20%;
+}
+.skills :nth-child(3){
+    width: 20%;
+}
+
+@keyframes skills {
+    0%   {  top:-100px; }
+    100%  {  top:0px;}
+  
+  }
+.skills  h3 {
+    width: 300px;
+    font-size: 25px;
+    color: white;
+}
+
+.skills :nth-child(1) p {
+    color: white;
+}
+
+
+
+
+@media only screen and (max-width: 830px) {
+
+    .skills {
+        height: auto;
+        display: grid;
+    }
+
+    .skills :nth-child(1){
+        width: 100%;
+    }
+    .skills :nth-child(2){
+        width: 100%;
+    }
+    .skills :nth-child(3){
+        width: 100%;
+    }
+}
+
+
